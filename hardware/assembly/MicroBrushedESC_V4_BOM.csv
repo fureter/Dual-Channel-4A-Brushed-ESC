@@ -1,0 +1,26 @@
+Designator, Quantity,Comment, Footprint,LCSC Part #
+C1 C5 ,2,1uF,Capacitor_SMD:C_0402_1005Metric,C52923
+C2 C6 C8 C9 ,4,22u,Capacitor_SMD:C_0603_1608Metric,C59461
+C3 ,1,10n,Capacitor_SMD:C_0402_1005Metric,C272878
+C4 ,1,100nF,Capacitor_SMD:C_0402_1005Metric,C1525
+C7 ,1,100uF,Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B,C16133
+D1,1,LED_Small,LED_SMD:LED_0603_1608Metric,C2286
+D4 ,1,LED_Small,LED_SMD:LED_0603_1608Metric,C72041
+D2 D3 ,2,D_Schottky,Diode_SMD:D_SOD-123,C8598
+J1 ,1,MOTOR1,Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical,
+J2 ,1,MOTOR2,Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical,
+J3 ,1,CONTROL,Connector_Molex:Molex_PicoBlade_53047-0410_1x04_P1.25mm_Vertical,
+J4 ,1,VBAT+,Connector_PinHeader_1.27mm:PinHeader_1x01_P1.27mm_Vertical,
+J5 ,1,REPROG,Connector_Molex:Molex_PicoBlade_53047-0410_1x04_P1.25mm_Vertical,
+J6 ,1,VBAT-,Connector_PinHeader_1.27mm:PinHeader_1x01_P1.27mm_Vertical,
+L1 ,1,1u,Inductor_SMD:L_Vishay_IHLP-1616,C135266
+Q1 Q2 ,2,2N7002,Package_TO_SOT_SMD:SOT-23,C8545
+Q3 Q4 ,2,AO3401A,Package_TO_SOT_SMD:SOT-23,C15127
+R1 R12 ,2,5k,Resistor_SMD:R_0402_1005Metric,C166638
+R13 ,1,402k,Resistor_SMD:R_0402_1005Metric,C11586
+R2 R3 ,2,100,Resistor_SMD:R_0402_1005Metric,C25076
+R4 R5 R6 R7 ,4,10k,Resistor_SMD:R_0402_1005Metric,C25744
+R8 R10 R11 R14 ,4,100k,Resistor_SMD:R_0402_1005Metric,C106234
+R9 ,1,1M,Resistor_SMD:R_0402_1005Metric,C269676
+U1 ,1,STM8S003F3P,Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm,C52717
+U2 ,1,TPS61230,digikey-footprints:VSON-10-1EP_3x3mm,C139626
