@@ -8,3 +8,4 @@ sim/Motor_Output[1].fft
 *.fft
 documents/cd00190271-stm8s-series-and-stm8af-series-8bit-microcontrollers-stmicroelectronics(1).pdf
 documents/stm8s003f3.pdf
+software/.idea/vcs.xml

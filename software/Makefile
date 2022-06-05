@@ -1,8 +1,8 @@
 #export PATH := $(PATH):$(HOME)/local/bin/sdcc
 
-MCU  = STM8S103F3P6
+MCU  = STM8S003F3P6
 ARCH = stm8
-BOARD = STM8S103F
+BOARD = STM8S003F
 
 F_CPU   ?= 16000000
 TARGET  ?= main.ihx
